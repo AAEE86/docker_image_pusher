@@ -1,3 +1,4 @@
 jxxghp/moviepilot-v2:latest
 linuxserver/qbittorrent:latest
 lobehub/lobe-chat:latest
+linuxserver/transmission:latest
